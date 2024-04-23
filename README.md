@@ -1,6 +1,6 @@
 # Blockchain-based eVault for Legal Records
 
-# INTRODUCTION:
+# INTRODUCTION
 
 In the history of digital transformation, the legal record maintenance witnessed a paradigm shift in the management legal records. The enhanced immutable and cryptographic properties of blockchain technology, integrated with smart contract system automation, this innovative system aims to redefine how legal records are stored, accessed and secured, paving the way for a more trustworthy, transparent, and efficient future in legal record management. 
 
