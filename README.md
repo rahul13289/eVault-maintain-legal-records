@@ -36,9 +36,6 @@ Step 6: Scalability and Adaptability: Design the system to be scalable and adapt
 Step 7: Prototype Development: Develop a functional prototype of the eVault system incorporating all the above features.
 Step 8: Documentation: Create a detailed design document outlining the architecture, features, and technical specifications of the eVault system.
 
-
-![image](https://github.com/rahul13289/eVault-for-legal-records/assets/97829880/c6ced9e5-3d8b-460b-800e-d7fd4eb61d7d)
-
 ## Features
 - **Smart Contracts**: Manages access, permissions, and transactions securely.
   
@@ -191,3 +188,6 @@ sudo apt-get install apache2
 # PROJECT TUTORIAL VIDEO
 
 https://youtu.be/XNfDfIvFRz0?si=26BeTrzgQOu6lyZ5
+
+
+![image](https://github.com/rahul13289/eVault-for-legal-records/assets/97829880/c6ced9e5-3d8b-460b-800e-d7fd4eb61d7d)
