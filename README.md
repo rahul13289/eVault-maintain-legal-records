@@ -187,11 +187,11 @@ sudo apt-get install apache2
 
 # PROJECT TUTORIAL VIDEO
 
-https://youtu.be/XNfDfIvFRz0?si=26BeTrzgQOu6lyZ5
+
+
+[![Video Title](https://img.youtube.com/vi/XNfDfIvFRz0?si=26BeTrzgQOu6lyZ5/maxresdefault.jpg)](https://www.youtube.com/watch?v=XNfDfIvFRz0?si=26BeTrzgQOu6lyZ5)
+
+
 
 
 ![Snip - Final_Year-Project-Review pptm - Google Slides - Google Chrome (4)](https://github.com/rahul13289/eVault-maintain-legal-records/assets/97829880/ded7926b-38a3-4ebf-8e11-e18d517660e5)
-
-
-[![](https://visitcount.itsvg.in/api?id=rahul13289&icon=0&color=0)](https://visitcount.itsvg.in)
-
