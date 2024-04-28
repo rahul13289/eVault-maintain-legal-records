@@ -22,7 +22,7 @@ Our approach provides features for storage, manage and sharing the legal records
 
 # ARCHITECTURE 
 
-![image](https://github.com/rahul13289/eVault-for-legal-records/assets/97829880/43beccb4-4891-49bf-befd-be82f78105dc)
+![unnamed](https://github.com/rahul13289/eVault-maintain-legal-records/assets/97829880/7f0c4f6a-ef40-4b1c-9a9c-e433ece9f3db)
 
 # ALGORITHM 
 
