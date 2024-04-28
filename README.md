@@ -190,9 +190,7 @@ sudo apt-get install apache2
 https://youtu.be/XNfDfIvFRz0?si=26BeTrzgQOu6lyZ5
 
 
-![image](https://github.com/rahul13289/eVault-for-legal-records/assets/97829880/c6ced9e5-3d8b-460b-800e-d7fd4eb61d7d)
-
-
+![Snip - Final_Year-Project-Review pptm - Google Slides - Google Chrome (4)](https://github.com/rahul13289/eVault-maintain-legal-records/assets/97829880/ded7926b-38a3-4ebf-8e11-e18d517660e5)
 
 
 [![](https://visitcount.itsvg.in/api?id=rahul13289&icon=0&color=0)](https://visitcount.itsvg.in)
